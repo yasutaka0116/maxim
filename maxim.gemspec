@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{maxim speaker}
   spec.description   = %q{If you tired, type 'tired' on terminal}
-  spec.homepage      = "https://github.com/yasutaka0116"
+  spec.homepage      = "https://github.com/yasutaka0116/maxim"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -31,5 +31,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.14"
   spec.add_development_dependency "rake", "~> 10.0"
-   spec.executables << 'tired'
+  spec.executables << 'tired'
 end
