@@ -24,10 +24,11 @@ Or install it yourself as:
 
     $ tired
 
-if you are tired , type thie on tterminal.say maxim
+if you are tired , type thie on terminal.
+puts maxim
 
 example
-    $ Stay hungry.
+  Stay hungry.
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
