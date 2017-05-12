@@ -5,7 +5,7 @@ require 'maxims/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "maxims"
-  spec.version       = Maxim::VERSION
+  spec.version       = Maxims::VERSION
   spec.authors       = ["yasutaka0116"]
   spec.email         = ["k.yasutaka0116@gmail.com"]
 
